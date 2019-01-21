@@ -1,3 +1,3 @@
-module github.com/ALPLab/protorepo-open-simulation-interface-go
+module github.com/ALPLab/protorepo-osi-go/v3
 
 require github.com/golang/protobuf v1.2.0
